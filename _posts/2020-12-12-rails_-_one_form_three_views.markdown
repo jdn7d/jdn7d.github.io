@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails - One Form Three Views "
-date:       2020-12-12 22:24:35 +0000
+date:       2020-12-12 17:24:35 -0500
 permalink:  rails_-_one_form_three_views
 ---
 
